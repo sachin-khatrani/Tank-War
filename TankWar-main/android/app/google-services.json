@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "78383699361",
+    "firebase_url": "https://tankwar.firebaseio.com",
+    "project_id": "tankwar",
+    "storage_bucket": "tankwar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78383699361:android:8e9e0b63fe50c2673c67e0",
+        "android_client_info": {
+          "package_name": "com.code4ij.tankwar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "78383699361-kls2bfllc8ru6rm3pgb3a68lfs5pasvl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBszLCp4lXA0lRxlfO0jaaR7Giv7FEmUe0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "78383699361-kls2bfllc8ru6rm3pgb3a68lfs5pasvl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
